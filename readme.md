@@ -1,9 +1,6 @@
 # Team Name: Hack Wizards
 
-Members: Vaibhav
-Members: Shrinivas
-Members: Harshvardhan
-Members: Mayur 
+Members: Vaibhav, Shrinivas, Harshvardhan, Mayur 
 
 
 # Project Title
