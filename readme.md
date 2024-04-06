@@ -20,11 +20,11 @@ git clone https://github.com/vaibhav-kadam3107/Nivesh.git
 
 Go to the project directory and install dependencies for both the Frontend and Backend
 ```
-cd client
+cd Frontend
 npm install
 ```
 ```
-cd server
+cd Backend
 npm install
 ```
 
@@ -36,6 +36,6 @@ npm run dev
 
 Start the Frontend
 ```
-cd client
+cd Frontend
 npm start
 ```
